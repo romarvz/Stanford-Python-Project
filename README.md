@@ -1,3 +1,5 @@
+![Climate change analysis illustration: scientist reviewing temperature, CO2, and environmental data](notebook_cover.png)
+
 # Climate Change Data Analysis
 
 This project analyzes global climate change indicators using open datasets. It explores trends in global temperature anomalies, CO2 emissions, and sea level rise, and examines the relationships between these variables.
