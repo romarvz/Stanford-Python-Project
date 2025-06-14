@@ -18,6 +18,29 @@ This project analyzes global climate change indicators using open datasets. It e
 - **CO2 Emissions**: [Our World in Data CO2 dataset](https://github.com/owid/co2-data)
 - **Sea Level Rise**: [EPA Sea Level dataset](https://github.com/datasets/sea-level-rise)
 
+## How to Install Jupyter Notebook
+If you don't have Jupyter installed, you can install it with pip:
+
+```bash
+pip install jupyter
+```
+
+Or, if you want the full JupyterLab experience:
+
+```bash
+pip install jupyterlab
+```
+
+After installation, you can launch the notebook with:
+
+```bash
+jupyter notebook
+```
+or
+```bash
+jupyter lab
+```
+
 ## How to Use
 1. **Install dependencies** (recommended: use a virtual environment):
    ```bash
